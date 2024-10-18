@@ -36,7 +36,6 @@ while(expHeroi < 12000){
         //Nivel Radiante
         nivel = "Radiante"
     }
-
     expHeroi +=1000
 
 
